@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+*.bak
+
+# Folders
+/.vs
+/x64
+/WinAPI Libs/x64
